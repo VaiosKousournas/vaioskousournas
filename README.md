@@ -1,5 +1,6 @@
-## Hi there 👋, I'm Vaios
+## Hi there, I'm Vaios
 
+Interested in systematic investing, securitized credit, agentic AI, and signal research
 <!--
 **VaiosKousournas/vaioskousournas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
